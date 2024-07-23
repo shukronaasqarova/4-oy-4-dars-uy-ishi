@@ -19,6 +19,20 @@
 // }
 // console.log(res);
 
+// 3 masala
+
+// for (let i = 2; i <= 50; i++) {
+//   let num = 0;
+//   for (let j = 2; j < i; j++) {
+//     if (i % j === 0) {
+//       num++;
+//     }
+//   }
+//   if (num >= 1) {
+//     console.log(i);
+//   }
+// }
+
 // 4 masala
 
 // let sum = 0;
@@ -30,8 +44,36 @@
 // console.log("kvadrati", p);
 // console.log("yeg'indisi", sum);
 
+// 5 masala
 
+// let num1 = +prompt("1-sonni kiriting");
+// let min, max;
+// min = max = num1;
+// for (let i = 2; i <= 5; i++) {
+//   let num = +prompt(`${i} - sonni kiriting`);
+//   if (num > max) {
+//     max = num;
+//   }
+//   if (num < min) {
+//     min = num;
+//   }
+// }
+// console.log("Eng kichik raqam " + min);
+// console.log("Eng katta raqam " + max);
 
+// 6 masala
+
+// for (let i = 2; i <= 30; i++) {
+//     let num = 0;
+//     for (let j = 2; j < i; j++) {
+//       if (i % j === 0) {
+//         num++;
+//       }
+//     }
+//     if (num >= 1) {
+//       console.log(i);
+//     }
+// }
 
 // 7 masala
 
